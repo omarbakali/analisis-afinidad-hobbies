@@ -2,7 +2,7 @@
 
 > **Pregunta de investigación:** ¿Qué gustos e intereses suelen compartir las comunidades de usuarios en redes sociales?
 
-Este repositorio contiene el desarrollo completo de un proyecto académico para la asignatura de **Computación Social y Personalización** (Grado en Ciencia de Datos). El objetivo es modelar, detectar y analizar comunidades de usuarios a partir de sus afinidades temáticas, integrando técnicas de **Análisis de Redes Sociales (SNA)**, ingeniería de datos en Python, extracción semántica mediante **Modelos de Lenguaje (LLM)** y visualización topológica en **Gephi**.
+Este repositorio contiene el desarrollo completo de un proyecto académico para la asignatura de **Computación Social y Personalización** (Grado en Ciencia de Datos). El objetivo es modelar, detectar y analizar comunidades de usuarios a partir de sus afinidades temáticas, integrando técnicas de **Análisis de Redes Sociales**, ingeniería de datos en Python, extracción semántica mediante **Modelos de Lenguaje (LLM)** y visualización topológica en **Gephi**.
 
 ---
 
@@ -152,7 +152,7 @@ pip install numpy pandas networkx python-louvain matplotlib jupyter
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/<usuario>/analisis-afinidad-hobbies.git
+   git clone https://github.com/omarbakali/analisis-afinidad-hobbies.git
    cd analisis-afinidad-hobbies
    ```
 
@@ -170,5 +170,5 @@ pip install numpy pandas networkx python-louvain matplotlib jupyter
 
 ## Autores y licencia
 
-- **Autores:** Adrià, Garofalo y Bakali — *Proyecto de Computación Social y Personalización*.
+- **Autores:** Garófalo, Adrián y Bakali El Maimouni, Omar — *Proyecto de Computación Social y Personalización*.
 - **Licencia:** Distribuido bajo licencia **CC0 1.0 Universal (Dominio Público)**. Véase el archivo [`LICENSE`](LICENSE) para consultar los términos completos.
